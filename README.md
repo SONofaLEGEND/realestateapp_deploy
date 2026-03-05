@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real Estate App (Docker)
 
 Run the full application using Docker.
